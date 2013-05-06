@@ -5,7 +5,7 @@ Directory Structure and Files
 =============================
 * input: the input directory; contains example input files for testing the program.
 * lda.py: main program that runs online LDA.
-* run_lda.sh: script to drive the online lda system.
+* run_lda.sh: script that drives the online lda system.
 * stopwords.txt: a list of common stopwords to remove when generating the vocabulary.
 * vocabulary.py: complementary program that manages the update of vocabulary in documents.
 
