@@ -1,5 +1,4 @@
-This package contains scripts and python tools for running an online implementation of LDA to detect
-novel topics in microblogs.
+This package contains scripts and python tools for running an online implementation of LDA.
 
 Directory Structure and Files
 =============================
