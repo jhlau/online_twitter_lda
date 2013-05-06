@@ -13,7 +13,7 @@ Running the System
 ==================
 * Generate input files according to the input format in the input directory.
 * Execute run_lda.sh.
-* System output are generated in "output-<time_slice>" directories.
+* System output are generated in output-<time_slice> directories.
 
 Input Format
 ============
